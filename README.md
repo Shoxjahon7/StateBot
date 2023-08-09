@@ -1,0 +1,2 @@
+# StateBot
+Aiogram Telegram Bot
